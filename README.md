@@ -54,7 +54,7 @@ No hay norminette en este examen.
   - wdmatch 
 ```
 ### Question 3 is from Level 3
-:pregutnas: Cuaquiera de las siguietes 15 funciones/programas:
+:question: Cuaquiera de las siguietes 15 funciones/programas:
 ```
   - add_prime_sum
   - epur_str
