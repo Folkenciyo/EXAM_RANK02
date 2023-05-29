@@ -14,7 +14,7 @@ No hay norminette en este examen.
 # Preguntas de Examen
 
 ### Question 1 is from Level 1
-:pregutnas: Cuaquiera de las siguietes 12 funciones/programas:
+:question: Cuaquiera de las siguietes 12 funciones/programas:
 ```
   - first_word
   - fizzbuzz
@@ -30,7 +30,7 @@ No hay norminette en este examen.
   - ulstr
 ```
 ### Question 2 is from Level 2
-:preguntas: Cuaquiera de las siguietes 20 funciones/programas:
+:question: Cuaquiera de las siguietes 20 funciones/programas:
 ```
   - alpha_mirror
   - camel_to_snake
@@ -73,7 +73,7 @@ No hay norminette en este examen.
   - tab_mult 
 ```
 ### Question 4 is from Level 4
-:pregutnas: Cuaquiera de las siguietes 10 funciones/programas:
+:question: Cuaquiera de las siguietes 10 funciones/programas:
 ```
   - flood_fill
   - fprime
@@ -88,40 +88,40 @@ No hay norminette en este examen.
 ```
 
 ### Stats
-:nadador/a/e: Total de 57 Funciones/programas de la piscina y libft.
+:swimmer: Total de 57 Funciones/programas de la piscina y libft.
 
 <br>
 
 # Detalles para logearte en el examen
-:UNO: Loggeate con los siguientes:
+:one: Loggeate con los siguientes:
 ```
 login -> exam
 password -> exam
 ```
-:DOS: En ITerm:
+:two: En ITerm:
 ```
 Type examshell in terminal
 ```
-:TRES: Tu cuenta de 42 Intra:
+:three: Tu cuenta de 42 Intra:
 ```
 login -> tu username de 42 intra (eg. juguerre)
 pasword -> your password
 ```
-:CUATRO: Tu foto de 42 Intra:
+:four: Tu foto de 42 Intra:
 ```
 Allow photo check
 ```
-:CINCO: Aceso a Rendu:
+:five: Aceso a Rendu:
 ```
 Type 'y' or 'yes'
 ```
-:SEIS: En el Exam Shell, Seguirás los siguentes 3 Comandos:
+:six: En el Exam Shell, Seguirás los siguentes 3 Comandos:
 ```
 - status - muestra el tiempo y más
 - grademe - pushea el ejercicio para corregirlo (moulinet)
 - finish - cierrar y terminar el examen
 ```
-:SIETE: Abre una nueva iTerm o VSCode:
+:seven: Abre una nueva iTerm o VSCode:
 ```
 - Puedes encontrar el Subject en el directorio de subject.
 - Entonces puedes ver el directorio Rendu. El cual será tu repositorio.
@@ -131,15 +131,15 @@ Type 'y' or 'yes'
 
 Cuando estés listo para subir tu funcion/programa, ve a Rendu y envía la carpeta que creaste haciendo lo siguiente:
 
-:UNO: git add <folder name/files in folder>
+:one: git add <folder name/files in folder>
 
-:DOS: git status
+:two: git status
 
-:TRES: git commit -m "cualquier mensaje referente a tu commit"
+:three: git commit -m "cualquier mensaje referente a tu commit"
 
-:CUATRO: git push
+:four: git push
 
-:CINCO: Despues de subirlo, escribe `grademe` en el examshell para evaluar tu ejercicio. 
+:five: Despues de subirlo, escribe `grademe` en el examshell para evaluar tu ejercicio. 
 
 <br>
 
